@@ -11,10 +11,9 @@
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=joaopedrovrg\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrovrg\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center"> <h2>Tecnologias que uso e estudo</h2> </div> 
 
-## Tecnologias que uso e estudo: 
-
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
   
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
