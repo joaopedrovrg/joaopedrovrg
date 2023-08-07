@@ -1,4 +1,7 @@
-## Olá!👋
+<div align="center"> 
+  <h1> Olá!👋 </h1> 
+</div> 
+
 ### Me chamo João Pedro do Nascimento Vergínio tenho 18 anos e atualmente estou estudando Análise e Desenvolvivmento de Sistemas no [Cotuca | Colégio Técnico de Campinas](https://cotuca.unicamp.br/cotuca/) - [Unicamp](https://www.unicamp.br/unicamp/)
 - 📚 Me dedicando para ser full stack!
 - 🔨 Atualmente estou desenvolvendo o projeto SGAT
@@ -27,5 +30,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaopedrovrg/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/joaopedrovrg)
 
- ----------------------------------------------------- 
-  ### "Nada é impossível para aquele que persiste" - Alexandre o Grande
+ ---
+> ### "Nada é impossível para aquele que persiste" - Alexandre o Grande
