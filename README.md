@@ -26,10 +26,10 @@
 </div>
 <p></p>
 
-## Meios de contato:
+## Redes Sociais:
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-do-nascimento-verginio-794208288/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaopedrovrg/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/joaopedrovrg)
 
  ---
 > ### "Nada é impossível para aquele que persiste" - Alexandre o Grande
