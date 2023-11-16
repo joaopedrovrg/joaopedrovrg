@@ -4,7 +4,7 @@
 
 ### Me chamo João Pedro do Nascimento Vergínio tenho 18 anos e atualmente estou estudando Análise e Desenvolvivmento de Sistemas no [Cotuca | Colégio Técnico de Campinas](https://cotuca.unicamp.br/cotuca/) - [Unicamp](https://www.unicamp.br/unicamp/)
 - 📚 Me dedicando para ser um ótimo full stack!
-- 🔨 Atualmente estou desenvolvendo o projeto SGAT
+- 🔨 Atualmente estou desenvolvendo o projeto SmartCalendar
 <br>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joaopedrovrg\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
