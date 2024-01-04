@@ -3,7 +3,6 @@
 </div> 
 
 ### Me chamo João Pedro do Nascimento Vergínio tenho 18 anos e atualmente estou estudando Análise e Desenvolvivmento de Sistemas no [Cotuca | Colégio Técnico de Campinas](https://cotuca.unicamp.br/cotuca/) - [Unicamp](https://www.unicamp.br/unicamp/)
-- 📚 Me dedicando para ser um ótimo full stack!
 - 🔨 Atualmente estou desenvolvendo o projeto SmartCalendar
 <br>
 
